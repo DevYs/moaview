@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moaview/static/css/main.74aeb322.chunk.css",
+    "main.js": "/moaview/static/js/main.6616dc8e.chunk.js",
+    "main.js.map": "/moaview/static/js/main.6616dc8e.chunk.js.map",
+    "runtime-main.js": "/moaview/static/js/runtime-main.8413ad50.js",
+    "runtime-main.js.map": "/moaview/static/js/runtime-main.8413ad50.js.map",
+    "static/js/2.9e8c75e3.chunk.js": "/moaview/static/js/2.9e8c75e3.chunk.js",
+    "static/js/2.9e8c75e3.chunk.js.map": "/moaview/static/js/2.9e8c75e3.chunk.js.map",
+    "index.html": "/moaview/index.html",
+    "precache-manifest.d9641de7e3bd97721cc95e8db45a4302.js": "/moaview/precache-manifest.d9641de7e3bd97721cc95e8db45a4302.js",
+    "service-worker.js": "/moaview/service-worker.js",
+    "static/css/main.74aeb322.chunk.css.map": "/moaview/static/css/main.74aeb322.chunk.css.map",
+    "static/js/2.9e8c75e3.chunk.js.LICENSE.txt": "/moaview/static/js/2.9e8c75e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8413ad50.js",
+    "static/js/2.9e8c75e3.chunk.js",
+    "static/css/main.74aeb322.chunk.css",
+    "static/js/main.6616dc8e.chunk.js"
+  ]
+}
