@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/moaview/precache-manifest.d9641de7e3bd97721cc95e8db45a4302.js"
+  "/moaview/precache-manifest.4ad8aecd431892a64bdfdc0b90ad243e.js"
 );
 
 self.addEventListener('message', (event) => {
