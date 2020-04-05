@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/moaview/static/css/main.7a306557.chunk.css",
-    "main.js": "/moaview/static/js/main.32a08f26.chunk.js",
-    "main.js.map": "/moaview/static/js/main.32a08f26.chunk.js.map",
+    "main.js": "/moaview/static/js/main.155405f4.chunk.js",
+    "main.js.map": "/moaview/static/js/main.155405f4.chunk.js.map",
     "runtime-main.js": "/moaview/static/js/runtime-main.8413ad50.js",
     "runtime-main.js.map": "/moaview/static/js/runtime-main.8413ad50.js.map",
     "static/js/2.9e8c75e3.chunk.js": "/moaview/static/js/2.9e8c75e3.chunk.js",
     "static/js/2.9e8c75e3.chunk.js.map": "/moaview/static/js/2.9e8c75e3.chunk.js.map",
     "index.html": "/moaview/index.html",
-    "precache-manifest.4ad8aecd431892a64bdfdc0b90ad243e.js": "/moaview/precache-manifest.4ad8aecd431892a64bdfdc0b90ad243e.js",
+    "precache-manifest.dbf2f07d4160be850d003fb36a627646.js": "/moaview/precache-manifest.dbf2f07d4160be850d003fb36a627646.js",
     "service-worker.js": "/moaview/service-worker.js",
     "static/css/main.7a306557.chunk.css.map": "/moaview/static/css/main.7a306557.chunk.css.map",
     "static/js/2.9e8c75e3.chunk.js.LICENSE.txt": "/moaview/static/js/2.9e8c75e3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8413ad50.js",
     "static/js/2.9e8c75e3.chunk.js",
     "static/css/main.7a306557.chunk.css",
-    "static/js/main.32a08f26.chunk.js"
+    "static/js/main.155405f4.chunk.js"
   ]
 }
